@@ -31,9 +31,9 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -47,7 +47,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Audacity para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
