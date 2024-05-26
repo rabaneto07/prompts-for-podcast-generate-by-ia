@@ -26,8 +26,8 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
-
+## Projeto Podcast Gerado por I.A.s
+# Link para o podcast [spotify Podcasters]https://podcasters.spotify.com/pod/show/judeu/episodes/ep01---OL-e2k3tfv
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
