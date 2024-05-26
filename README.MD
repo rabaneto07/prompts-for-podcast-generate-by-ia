@@ -40,7 +40,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Audacity](https://www.audacityteam.org/)
 
 ## ✨ Como foi feito ?
 
@@ -58,12 +58,6 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
     <p>&nbsp&nbsp&nbspVcnt Cardoso<br>
     &nbsp&nbsp&nbsp
     <a 
@@ -77,7 +71,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/vcntc_/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -87,4 +81,4 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Por [rabaneto07](https://github.com/rabaneto07)
